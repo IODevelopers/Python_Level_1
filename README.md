@@ -1,2 +1,2 @@
-# Python_Level_1
-Basic Python level 1 workshop by iodev.
+# Python Workshop
+Basic Python Workshop by [I/O Developers](https://www.iodev.co.in)
